@@ -1,4 +1,16 @@
-# Frontend
+# Webpeer Frontend
+
+```
+$ git clone https://github.com/mkhizeryounas/webpeer-frontend.git
+$ cd webpeer-frontend/
+$ npm i
+$ ng serve
+```
+
+```
+username: mkhizeryounas
+password: 1234
+```
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
